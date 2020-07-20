@@ -35,7 +35,7 @@
     </div>
 </div>
 <div class="row mb-3 justify-content-lg-between">
-    <label class="col-form-label" for="">Razão Sacial:</label>
+    <label class="col-form-label" for="">Razão Social:</label>
     <div class="input-group col-9">
         <input  type="text" class="form-control">
         <div class="input-group-append">

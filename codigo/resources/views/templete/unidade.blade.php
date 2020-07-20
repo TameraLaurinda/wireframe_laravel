@@ -25,7 +25,7 @@
 @section('form') 
 <div class="row mb-3 justify-content-between">
     <div>
-        <label class="col-form-label disabled" for="">Nome Fantadia:</label>
+        <label class="col-form-label disabled" for="">Nome Fantasia:</label>
     </div>
     <div class="input-group col-9">
         <input  type="text" class="form-control disabled">
